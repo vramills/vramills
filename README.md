@@ -1,7 +1,11 @@
+
+
 # 👋 Hola! Sóc Víctor  
 
 Sóc estudiant de **Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes (SMX)**.  
 Em apassiona el món de la informàtica, especialment la **gestió de sistemes** i el treball amb diferents sistemes operatius.  
+
+<img src="https://i.imgur.com/yEt6JSa.gif" width="500"/>
 
 ## 🚀 Experiència  
 - 🐧 Ús i gestió de **Linux**, principalment Ubuntu Server i distribucions basades en Debian.  
