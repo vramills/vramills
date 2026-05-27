@@ -1,27 +1,35 @@
-
-
 # 👋 Hola! Sóc Víctor  
 
-Sóc estudiant de **Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes (SMX)**.  
-Em apassiona el món de la informàtica, especialment la **gestió de sistemes** i el treball amb diferents sistemes operatius.  
+Sóc estudiant de Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes (SMX), actualment cursant el segon curs.  
+Em apassiona el món de la informàtica, especialment la gestió de sistemes, les xarxes i les infraestructures tecnològiques.  
 
 <img src="https://i.imgur.com/yEt6JSa.gif" width="500"/>
 
 ## 🚀 Experiència  
-- 🐧 Ús i gestió de **Linux**, principalment Ubuntu Server i distribucions basades en Debian.  
-- 💻 Experiència amb **Windows**, tant a nivell d’usuari com d’administració bàsica.  
-- 🐍 Primeres passes amb **Python**, creant petits programes i practicant la lògica de programació.  
-- 🌐 Configuració bàsica de xarxes i màquines virtuals.  
+
+- 🛠️ Tècnic informàtic a Sintelec, donant suport helpdesk i gestionant xarxes i tallafocs.  
+- 🐧 Ús i gestió de Linux, principalment Ubuntu Server i distribucions basades en Debian.  
+- 💻 Experiència amb Windows i Windows Server, tant a nivell d'usuari com d'administració.  
+- 🌐 Configuració i gestió de xarxes i infraestructures.  
 
 ## 🔧 Tecnologies i eines  
-- **Sistemes Operatius**: Linux, Windows, macOS  
-- **Llenguatges**: Python (nivell bàsic)  
-- **Altres**: Virtualització, xarxes, administració bàsica de sistemes  
+
+- Sistemes Operatius: Linux (Ubuntu Server), Windows, Windows Server  
+- Xarxes: Configuració de xarxes, gestió de tallafocs  
+- Virtualització: VirtualBox  
+- Altres: Infraestructures IT, suport helpdesk  
+
+## 📚 Formació  
+
+- 🎓 Grau Mitjà de Sistemes Microinformàtics i Xarxes — Escola Pia Mataró  
+  Coneixements adquirits en Windows Server, Linux, xarxes i infraestructures.  
 
 ## 📚 Actualment aprenent  
-- Funcions avançades de **Linux i Windows**  
-- **Fonaments de xarxes**  
-- **Gestió de sistemes operatius**  
+
+- Funcions avançades de Linux i Windows Server  
+- Fonaments de xarxes  
+- Gestió de sistemes operatius  
 
 ## 🌱 Objectiu  
-El meu objectiu és seguir aprenent cada dia i aplicar la meva experiència en tecnologia per resoldre problemes i crear solucions innovadores.  
+
+El meu objectiu és continuar creixent i aportar valor en entorns tecnològics, aplicant els coneixements i l'experiència adquirida per resoldre problemes i contribuir a equips tècnics.
