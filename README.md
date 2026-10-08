@@ -1,6 +1,6 @@
 # 👋 Hola! Sóc Víctor  
 
-Sóc estudiant de Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes (SMX), actualment cursant el segon curs.  
+Sóc estudiant de Cicle Formatiu de Grau Superior en Sistemes Informàtics i Xarxes (ASIX), actualment cursant el primer curs.  
 Em apassiona el món de la informàtica, especialment la gestió de sistemes, les xarxes i les infraestructures tecnològiques.  
 
 <img src="https://i.imgur.com/yEt6JSa.gif" width="500"/>
